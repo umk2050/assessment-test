@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Dwight",
+    "age": 42,
+    "job": "builder",
+    "pets": [
+      "Dean",
+      "Trevor"
+    ]
+  },
+  {
+    "name": "Baz",
+    "age": 24,
+    "job": "solicitor",
+    "pets": []
+  },
+  {
+    "name": "Kiren",
+    "age": 32,
+    "job": "Pharmacist",
+    "pets": [
+      "Spoogy"
+    ]
+  },
+  {
+    "name": "Daisy",
+    "age": 30,
+    "job": "writer",
+    "pets": [
+      "Colin"
+    ]
+  },
+  {
+    "name": "Tim",
+    "age": 30,
+    "job": "artist",
+    "pets": []
+  }
+]
